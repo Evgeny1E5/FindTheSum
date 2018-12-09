@@ -1,2 +1,2 @@
 # FindTheSum
-Console Java program
+Console Java program 2.0
