@@ -48,7 +48,7 @@ public class Main {
         }
         int a = 0, b = 0;
 
-        combinations = arr.size() * arr.size() * arr.size() * arr.size();
+        combinations = arr.size() * arr.size() * arr.size() * 2;
         while (running) {
             int suma = 0;
             count.clear();
